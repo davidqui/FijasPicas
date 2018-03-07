@@ -7,7 +7,6 @@ package fijaspicas;
 
 import java.util.Random;
 import java.util.Scanner;
-import jdk.nashorn.internal.ir.BreakNode;
 
 /**
  *
@@ -89,8 +88,7 @@ public class FijasPicas {
         boolean estado = false;
 
         int num = 0;
-//            generarAleatorio(num);
-//            System.out.println("Numero generado: " + String.valueOf(numGen));
+
         if (estado) {
             estado = true;
 
